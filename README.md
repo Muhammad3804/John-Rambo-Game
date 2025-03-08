@@ -8,6 +8,7 @@
 - Shooting mechanics for combat.
 - Health and score tracking.
 - Level progression with increasing difficulty.
+- Beware! Tanks can shoot at you upto 10 index distance!
 
 ## 🛠️ Technologies Used
 
@@ -22,8 +23,7 @@ JohnRamboGame/
 │── JohnRamboGame.cpp   # Main game source code
 │── highscore.txt       # Stores high scores
 │── README.md           # Project documentation
-│── LICENSE (optional)  # License for open-source usage
-└── assets/             # Screenshots and gameplay GIFs (if any)
+└── assets/             # Screenshots and gameplay
 ```
 
 ## 🎮 Controls
@@ -46,7 +46,5 @@ JohnRamboGame/
    ```sh
    ./JohnRamboGame.exe
    ```
-
-##
 
 
